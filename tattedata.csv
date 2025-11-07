@@ -1,0 +1,186 @@
+Transaction_ID,Day of the Week,Weather,Tempture,Group Size,Male,Female,Order Type,Food,Dessert,Drink,Cost
+1001,Tue,Raining,58,2,0,2,Take out,1,0,2,21.59
+1002,Tue,Raining,58,1,0,1,Take out,0,0,1,4.2
+1003,Tue,Raining,58,1,0,1,Take out,1,0,0,13.19
+1004,Tue,Raining,58,1,1,0,Take out,0,0,1,4.2
+1005,Tue,Raining,58,2,1,1,Dine in,1,0,1,17.39
+1006,Tue,Raining,58,1,1,0,Take out,0,1,1,11.58
+1007,Tue,Raining,58,3,0,3,Dine in,0,0,1,4.2
+1008,Tue,Raining,58,1,1,0,Dine in,1,0,1,17.39
+1009,Tue,Raining,58,2,0,2,Take out,0,0,1,4.2
+1010,Tue,Raining,58,1,0,1,Take out,1,0,0,13.19
+1011,Tue,Raining,58,1,1,0,Dine in,1,0,1,17.39
+1012,Tue,Raining,58,1,0,1,Take out,0,1,0,7.38
+1013,Tue,Raining,58,3,0,3,Dine in,0,1,2,15.78
+1014,Tue,Raining,58,1,0,1,Dine in,0,0,1,4.2
+1015,Tue,Raining,58,2,2,0,Dine in,0,0,2,8.4
+1016,Tue,Raining,58,2,1,1,Take out,1,0,0,13.19
+1017,Tue,Raining,58,2,1,1,Take out,0,0,2,8.4
+1018,Tue,Raining,58,1,0,1,Dine in,0,0,1,4.2
+1019,Tue,Raining,58,2,2,0,Dine in,0,0,2,8.4
+1020,Tue,Raining,58,1,1,0,Dine in,0,1,1,11.58
+1021,Tue,Raining,58,2,1,1,Dine in,0,0,2,8.4
+1022,Tue,Raining,57,1,1,0,Dine in,0,1,1,11.58
+1023,Wed,Sunny ,59,2,2,0,Dine in,0,0,2,8.4
+1024,Wed,Cloudy,57,1,0,1,Take out,0,1,0,7.38
+1025,Wed,Cloudy,57,1,0,1,Take out,0,1,1,11.58
+1026,Wed,Cloudy,57,2,1,1,Dine in,2,0,2,34.78
+1027,Wed,Cloudy,57,2,2,0,Dine in,0,0,2,8.4
+1028,Wed,Cloudy,57,1,0,1,Dine in,0,0,1,4.2
+1029,Wed,Cloudy,57,1,1,0,Take out,0,0,1,4.2
+1030,Wed,Cloudy,57,2,1,1,Dine in,0,0,2,8.4
+1031,Wed,Cloudy,57,1,1,0,Take Out,1,1,0,20.57
+1032,Wed,Cloudy,57,1,0,1,Take Out,0,1,1,11.58
+1033,Wed,Cloudy,57,1,0,1,Take Out,0,1,0,7.38
+1034,Wed,Cloudy,54,2,1,1,Take Out,0,2,2,23.16
+1035,Wed,Cloudy,54,1,1,0,Dine in,0,0,1,4.2
+1036,Wed,Cloudy,54,1,0,1,Take Out,0,0,1,4.2
+1037,Wed,Cloudy,54,1,0,1,Dine In,0,1,0,7.38
+1038,Wed,Cloudy,54,1,1,0,Dine In,0,0,1,4.2
+1039,Wed,Cloudy,54,1,0,1,Take Out,0,0,1,4.2
+1040,Wed,Cloudy,54,1,0,1,Dine In,0,0,1,4.2
+1041,Wed,Cloudy,54,1,1,0,Dine In,1,0,1,17.39
+1042,Wed,Cloudy,54,1,0,1,Take Out,1,0,0,13.19
+1043,Wed,Cloudy,54,1,0,1,Dine In,1,0,0,13.19
+1044,Wed,Cloudy,54,1,0,1,Take Out,0,1,1,11.58
+1045,Wed,Cloudy,54,1,0,1,Take Out,0,0,1,4.2
+1046,Thu,Sunny,59,1,0,1,Dine In ,1,0,1,17.39
+1047,Thu,Sunny,59,1,0,1,Dine In,0,0,1,4.2
+1048,Thu,Sunny,59,1,0,1,Dine In ,0,0,1,4.2
+1049,Thu,Sunny,59,1,0,1,Take out ,0,1,0,7.38
+1050,Thu,Sunny,59,1,0,1,Dine In ,0,1,0,7.38
+1051,Thu,Sunny,59,1,0,1,Dine In ,0,0,1,4.2
+1052,Thu,Sunny,59,3,0,3,Take out,0,1,3,19.98
+1053,Thu,Sunny,59,1,1,0,Dine In ,1,1,1,24.77
+1054,Thu,Sunny,59,1,0,1,Take out ,0,0,1,4.2
+1055,Thu,Sunny,59,1,1,0,Dine In ,1,0,1,17.39
+1056,Thu,Sunny,59,1,0,1,Dine In ,0,0,1,4.2
+1057,Thu,Sunny,59,4,4,0,Dine In ,0,1,1,11.58
+1058,Thu,Sunny,59,1,1,0,Dine In ,1,0,0,13.19
+1059,Thu,Sunny,59,1,0,1,Dine In ,1,1,1,24.77
+1060,Thu,Sunny,59,1,1,0,Take out ,0,0,1,4.2
+1061,Thu,Sunny,59,3,2,1,Dine In ,3,0,1,43.77
+1062,Thu,Sunny,59,1,1,0,Take out ,0,0,1,4.2
+1063,Thu,Sunny,59,1,1,0,Take out ,0,1,1,11.58
+1064,Thu,Sunny,59,1,0,1,Take out ,0,1,1,11.58
+1065,Thu,Sunny,59,4,0,4,Dine In,4,0,1,56.96
+1066,Thu,Sunny,59,1,0,1,Dine In ,1,0,0,13.19
+1067,Thu,Sunny,59,2,0,2,Take out ,0,4,0,29.52
+1068,Thu,Sunny,59,1,1,0,Take out ,1,0,1,17.39
+1069,Thu,Sunny,59,1,0,1,Dine In ,0,1,1,11.58
+1070,Thu,Sunny,59,1,1,0,Take out ,0,1,1,11.58
+1071,Thu,Sunny,59,1,0,1,Take out ,0,1,0,7.38
+1072,Thu,Sunny,59,1,1,0,Take out ,0,1,1,11.58
+1073,Thu,Cloudy,59,2,1,1,Take out ,1,1,0,20.57
+1074,Thu,Cloudy,59,3,2,1,Dine In ,0,1,1,11.58
+1075,Thu,Cloudy,59,1,1,0,Take out ,1,0,0,13.19
+1076,Thu,Cloudy,59,2,1,1,Dine In ,2,0,2,34.78
+1077,Thu,Cloudy,59,1,0,1,Take out ,0,0,2,8.4
+1078,Thu,Cloudy,59,3,0,3,Take out ,1,0,3,25.79
+1079,Thu,Cloudy,59,1,1,0,Take out ,1,0,0,13.19
+1080,Thu,Cloudy,59,1,0,1,Dine In ,0,0,1,4.2
+1081,Thu,Cloudy ,59,2,1,1,Take out ,1,1,1,24.77
+1082,Thu,Cloudy ,59,1,1,0,Take out ,0,1,0,7.38
+1083,Thu,Cloudy ,59,2,0,2,Dine In ,1,0,1,17.39
+1084,Thu,Cloudy ,59,2,1,1,Dine In ,1,0,2,21.59
+1085,Thu,Cloudy ,59,1,1,0,Take out ,0,1,1,11.58
+1086,Sat,Sunny,60,1,0,1,Dine In,0,0,1,4.2
+1087,Sat,Sunny,60,4,1,3,Dine In,3,1,4,63.75
+1088,Sat,Sunny,60,2,1,1,Dine In,0,0,2,8.4
+1089,Sat,Sunny,60,2,1,1,Dine In,2,0,2,34.78
+1090,Sat,Sunny,60,2,1,1,Take Out,0,2,2,23.16
+1091,Sat,Cloudy,60,1,0,1,Take Out,0,0,1,4.2
+1092,Sat,Cloudy,60,1,1,0,Dine In,1,0,1,17.39
+1093,Sat,Cloudy,60,1,1,0,Take Out,0,0,1,4.2
+1094,Sat,Cloudy,60,2,1,1,Take Out,0,2,2,23.16
+1095,Sat,Cloudy,60,1,1,0,Dine In ,1,0,1,17.39
+1096,Sat,Cloudy,60,2,1,1,Dine In,2,0,2,34.78
+1097,Sat,Cloudy,60,2,1,1,Dine In,2,0,2,34.78
+1098,Sat,Cloudy,60,2,1,1,Dine In,0,2,2,23.16
+1099,Sat,Cloudy,60,3,2,1,Take Out,0,0,3,12.6
+1100,Sat,Cloudy,60,2,2,0,Take Out,0,0,2,8.4
+1101,Sat,Cloudy,60,1,0,1,Take Out,1,0,0,13.19
+1102,Sat,Cloudy,60,3,0,3,Take Out,0,0,3,12.6
+1103,Sat,Cloudy,60,4,2,2,Take Out,0,0,3,12.6
+1104,Sat,Cloudy,60,1,0,1,Take Out,0,0,1,4.2
+1105,Sat,Cloudy,60,2,1,1,Take Out,0,0,2,8.4
+1106,Sun,Sunny,64,1,1,0,Take Out,1,1,1,24.77
+1107,Sun,Sunny,64,1,1,0,Take Out,0,0,1,4.2
+1108,Sun,Sunny,64,1,1,0,Take Out,1,0,1,17.39
+1109,Sun,Sunny,64,1,1,0,Take Out,1,1,1,24.77
+1110,Sun,Sunny,64,2,1,1,Dine In,1,1,2,28.97
+1111,Sun,Sunny,64,4,2,2,Dine In,4,0,5,73.76
+1112,Sun,Sunny,64,3,1,2,Dine In,1,1,2,28.97
+1113,Sun,Sunny,64,5,2,3,Dine In,5,4,5,116.47
+1114,Sun,Sunny,64,2,0,2,Dine In,0,4,2,37.92
+1115,Sun,Sunny,64,1,1,0,Dine In,1,1,1,24.77
+1116,Sun,Sunny,64,1,1,0,Dine In,0,1,1,11.58
+1117,Sun,Sunny,64,1,0,1,Dine In,1,0,1,17.39
+1118,Sun,Sunny,64,1,0,1,Dine In,0,0,1,4.2
+1119,Sun,Sunny,64,2,1,1,Dine In,2,1,2,42.16
+1120,Sun,Sunny,64,2,1,1,Dine In,1,2,3,40.55
+1121,Sun,Sunny,64,2,1,1,Dine In,2,2,2,49.54
+1122,Sun,Sunny,64,3,1,2,Dine In,3,0,3,52.17
+1123,Sun,Sunny,67,3,1,2,Dine In,3,5,4,93.27
+1124,Sun,Sunny,67,3,2,1,Dine In,4,0,3,65.36
+1125,Sun,Sunny,67,1,1,0,Take Out,2,0,2,34.78
+1126,Sun,Sunny,67,1,1,0,Take Out,3,1,0,46.95
+1127,Sun,Sunny,67,1,1,0,Take Out,6,3,3,113.88
+1128,Sun,Sunny,67,1,1,0,Take Out,1,1,1,24.77
+1129,Sun,Sunny,67,1,1,0,Take Out,1,1,1,24.77
+1130,Sun,Sunny,67,4,2,2,Dine In,4,2,6,92.72
+1131,Sun,Sunny,67,6,2,4,Dine In,2,6,6,95.86
+1132,Sun,Sunny,67,1,1,1,Take Out,2,3,3,61.12
+1133,Sun,Sunny,67,2,0,2,Dine In,2,0,2,34.78
+1134,Sun,Sunny,67,2,2,0,Dine In,2,2,2,49.54
+1135,Sun,Sunny,67,1,1,0,Take Out,3,0,0,39.57
+1136,Sun,Sunny,67,1,1,0,Take Out,4,0,2,61.16
+1137,Sun,Sunny,67,1,1,0,Take Out,2,0,0,26.38
+1138,Sun,Sunny,67,4,0,4,Dine In,0,4,4,46.32
+1139,Sun,Sunny,67,3,0,3,Dine In,1,2,3,40.55
+1140,Sun,Sunny,67,1,1,0,Dine In,0,0,1,4.2
+1141,Sun,Sunny,67,1,1,0,Take Out,1,1,1,24.77
+1142,Sun,Sunny,67,2,2,0,Dine In,2,0,2,34.78
+1143,Sun,Sunny,67,2,0,2,Dine In,0,2,2,23.16
+1144,Sun,Sunny,67,1,1,0,Take Out,2,2,2,49.54
+1145,Sun,Sunny,67,1,1,0,Dine In,1,1,1,24.77
+1146,Sun,Sunny,67,1,1,0,Take Out,3,1,2,55.35
+1147,Sun,Sunny,67,1,1,0,Take Out,2,2,2,49.54
+1148,Sun,Sunny,67,1,0,1,Dine In,1,1,1,24.77
+1149,Sun,Sunny,67,3,2,1,Dine In,2,1,3,46.36
+1150,Sun,Sunny,67,1,1,0,Take Out,1,1,1,24.77
+1151,Sun,Sunny,67,4,2,2,Dine In,2,2,4,57.94
+1152,Sun,Sunny,67,5,2,3,Dine In,0,0,5,21
+1153,Sun,Sunny,67,3,1,2,Dine In,0,2,3,27.36
+1154,Sun,Sunny,67,1,1,0,Take Out,2,3,2,56.92
+1155,Sun,Cloudy,64,2,2,0,Dine In,0,0,2,8.4
+1156,Sun,Cloudy,64,1,0,1,Take Out,1,1,0,20.57
+1157,Sun,Cloudy,64,3,1,2,Take Out,0,3,1,26.34
+1158,Sun,Cloudy,64,2,1,1,Take Out,2,0,2,34.78
+1159,Sun,Cloudy,64,1,0,1,Dine in,0,0,1,4.2
+1160,Sun,Cloudy,64,1,0,1,Take Out,0,0,2,8.4
+1161,Sun,Cloudy,64,1,1,0,Take Out,0,2,0,14.76
+1162,Sun,Cloudy,64,2,2,0,Dine In,0,0,2,8.4
+1163,Sun,Cloudy,64,4,2,2,Dine In,3,1,0,46.95
+1164,Sun,Cloudy,64,3,2,1,Dine In,2,2,1,45.34
+1165,Sun,Cloudy,64,2,1,1,Take Out,0,1,2,15.78
+1166,Sun,Cloudy,64,2,2,0,Take Out,2,1,0,33.76
+1167,Sun,Cloudy,64,2,1,1,Dine In,1,1,2,28.97
+1168,Sun,Cloudy,64,1,0,1,Take Out,2,0,2,34.78
+1169,Sun,Cloudy,64,1,0,1,Take Out,0,0,1,4.2
+1170,Sun,Cloudy,64,1,1,0,Take Out,2,0,0,26.38
+1171,Sun,Cloudy,64,3,1,2,Dine In,2,1,0,33.76
+1172,Sun,Cloudy,64,2,1,1,Take Out,0,1,2,15.78
+1173,Sun,Cloudy,64,2,0,2,Take Out,2,1,2,42.16
+1174,Sun,Cloudy,64,2,1,1,Dine In,1,1,2,28.97
+1175,Sun,Cloudy,64,1,1,0,Take Out,1,0,0,13.19
+1176,Sun,Cloudy,64,1,1,0,Take Out,0,3,0,22.14
+1177,Sun,Cloudy,64,3,3,0,Take Out,1,0,3,25.79
+1178,Sun,Cloudy,64,4,1,3,Dine In,2,3,2,56.92
+1179,Sun,Cloudy,64,2,1,1,Dine In,2,1,0,33.76
+1180,Sun,Cloudy,64,2,2,0,Take Out,0,2,1,18.96
+1181,Sun,Cloudy,64,1,0,1,Take Out,0,0,2,8.4
+1182,Sun,Cloudy,64,1,0,1,Take Out,0,2,1,18.96
+1183,Sun,Cloudy,64,2,0,2,Dine In,2,0,1,30.58
+1184,Sun,Cloudy,64,3,2,1,Dine In,2,1,2,42.16
+1185,Sun,Cloudy,64,3,3,0,Take Out,1,2,1,32.15
